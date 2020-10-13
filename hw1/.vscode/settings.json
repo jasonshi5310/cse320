@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "optional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "system_error": "c",
+        "array": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "additional.h": "c",
+        "sequitur.h": "c",
+        "const.h": "c",
+        "*.tcc": "c"
+    }
+}
